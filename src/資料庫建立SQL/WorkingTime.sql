@@ -1,4 +1,4 @@
----------清除-----------
+--------清除----------
  
 DROP TABLE WORKTIME; 
 DROP TABLE WORKER;

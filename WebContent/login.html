@@ -1,0 +1,26 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  
+  
+</head>
+<body>
+<div style="width:100%;text-align: center;padding-top: 100px;">
+  <form METHOD="post" ACTION="login.do">
+   
+    <h1>工時紀錄系統</h1>
+    <label for="inputEmail" class="sr-only">帳號</label>
+    <input type="text" id="workerID" name="workerID" class="form-control" placeholder="account" required autofocus>
+    <label for="inputPassword" class="sr-only">密碼</label>
+    <input type="password" id="workerPW" name="workerPW" class="form-control" placeholder="Password" required>
+    
+    <input type="hidden" name="action" value="login">
+    <button type="submit">登入</button>
+
+  </form>
+  </div>
+</body>
+
+</html>

@@ -60,7 +60,7 @@
 		</div>
 <table id="table-1">
 	<tr><td>
-		 <h3>工時紀錄修改 </h3>
+		 <h3>工時紀錄新增 </h3>
 		 <h4><a href="listAllWorkTime.jsp">返回紀錄總覽</a></h4>
 	</td></tr>
 </table>

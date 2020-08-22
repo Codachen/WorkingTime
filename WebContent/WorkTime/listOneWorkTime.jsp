@@ -59,7 +59,7 @@
 <table id="table-1">
 	<tr><td>
 		 <h3>工時紀錄查詢</h3>
-		 <h4><a href="addWorkTime.jsp">新增</a></h4>
+		 <h4><a href="listAllWorkTime.jsp">返回紀錄總覽</a></h4>
 	</td></tr>
 </table>
 
